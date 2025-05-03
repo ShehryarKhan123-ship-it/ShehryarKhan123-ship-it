@@ -30,6 +30,7 @@ A passionate and driven student currently pursuing a BS in Robotics and Artifici
 
 * **AI-Powered HR Automation Platform:** Collaborated on a project to automate resume screening, candidate ranking, and suitability prediction using NLP and machine learning. [cite: 10, 11, 12, 13, 49, 50, 51, 52, 53, 54]
 * **Student Anxiety Project:** Collaborated on an AI project focused on analyzing and predicting student anxiety levels using machine learning techniques.
+* **Brain Tumor Detection:** A cutting-edge brain tumor detection system employing YOLOv11 for efficient initial screening.Enhanced by SAM2's advanced segmentation capabilities, it delivers highly accurate tumor boundary delineation.
 
 ## 📫 How to reach me...
 
