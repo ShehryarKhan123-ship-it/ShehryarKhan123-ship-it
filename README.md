@@ -1,41 +1,57 @@
-# 👋 Hi, I'm Shehryar Khan
+# 👋 Hi there, I'm Shehryar Khan
 
-A passionate and driven student currently pursuing a BS in Robotics and Artificial Intelligence at SZABIST University, Islamabad. My goal is to become a successful Robotics Engineer, contributing to the cutting-edge advancements in automation and intelligent systems.
+🎓 A passionate undergraduate student pursuing a **BS in Robotics and Artificial Intelligence** at **SZABIST University, Islamabad**. I am driven by curiosity and a commitment to contributing to the evolving fields of automation, AI, and intelligent systems.
 
-## 👀 I'm interested in...
+---
 
-* Robotics design and development
-* AI algorithms and applications in robotics
-* Automation and control systems
-* Machine learning for robotics
-* Computer vision for robotics
-* SLAM (Simultaneous Localization and Mapping)
-* Path planning and navigation
+## 🚀 Interests
 
-## 🌱 I'm currently learning...
+- 🤖 Robotics Design & Development  
+- 🧠 Artificial Intelligence & Machine Learning in Robotics  
+- 🛠️ Automation and Control Systems  
+- 👁️‍🗨️ Computer Vision  
+- 🗺️ SLAM (Simultaneous Localization and Mapping)  
+- 📍 Path Planning and Navigation  
 
-* Advanced Robotics concepts
-* AI development tools and frameworks
-* Advance Machine learning Techniques
-* Google Cloud integreation in Machine Learning
+---
 
-## 💞️ I'm looking to collaborate on...
+## 📚 Currently Learning
 
-* Open-source robotics projects
-* AI-powered robotics solutions
-* Innovative automation projects
-* Research and development in robotics
+- 🤖 Advanced Robotics Concepts  
+- 🧠 Advanced Machine Learning Techniques  
+- ☁️ Google Cloud Integration for ML  
+- ⚙️ AI Development Tools and Frameworks  
 
-## 🤝 Collaboration Experience:
+---
 
-* **AI-Powered HR Automation Platform:** Collaborated on a project to automate resume screening, candidate ranking, and suitability prediction using NLP and machine learning. [cite: 10, 11, 12, 13, 49, 50, 51, 52, 53, 54]
-* **Student Anxiety Project:** Collaborated on an AI project focused on analyzing and predicting student anxiety levels using machine learning techniques.
-* **Brain Tumor Detection:** A cutting-edge brain tumor detection system employing YOLOv11 for efficient initial screening.Enhanced by SAM2's advanced segmentation capabilities, it delivers highly accurate tumor boundary delineation.
+## 🤝 Open to Collaborate On
 
-## 📫 How to reach me...
+- 🧩 Open-source Robotics Projects  
+- 🤖 AI-powered Robotics Solutions  
+- 💡 Innovative Automation Systems  
+- 🔬 Research & Development in Robotics and AI  
 
-* LinkedIn: [www.linkedin.com/in/shehryar-khan-9317balbb](www.linkedin.com/in/shehryar-khan-9317balbb)
-* Email: [shehryarkhan971@yahoo.com](shehryarkhan971@yahoo.com)
+---
+
+## 💼 Projects & Collaboration Highlights
+
+### ✅ AI-Powered HR Automation Platform
+Developed a smart HR system that automates **resume screening**, **candidate ranking**, and **suitability prediction** using **Natural Language Processing (NLP)** and **machine learning models**.
+
+### ✅ Student Anxiety Detection System
+Contributed to an AI project aimed at predicting student anxiety levels through **psychological data analysis** and **ML-based classification techniques**.
+
+### ✅ Brain Tumor Detection (YOLOv11 + SAM2)
+Engineered a brain tumor detection system utilizing **YOLOv11** for efficient screening, integrated with **SAM2 segmentation** for accurate tumor boundary delineation.
+
+---
+
+## 📬 Contact Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shehryar-khan-9317balbb)  
+- 📧 [shehryarkhan971@yahoo.com](mailto:shehryarkhan971@yahoo.com)  
+
+---
 
 ## 😄 Pronouns:
 
